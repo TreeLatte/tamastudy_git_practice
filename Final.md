@@ -12,7 +12,7 @@
 
 - [ ] 이주연 Juyeon Lee
 
-- [ ] 정재훈 Jeong JaeHun
+- [x] 정재훈 Jeong JaeHun
 
 - [ ] 조상우 Sangwoo Cho swcho
 
